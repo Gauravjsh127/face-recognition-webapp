@@ -1,2 +1,2 @@
 # face-recognition-webapp
-Sample project to explore face recognition feature using openCV
+Sample flask based webapp explore face recognition feature from images using openCV, numpy, pandas and matplotlib

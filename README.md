@@ -1,6 +1,6 @@
 # face-recognition-webapp
 
-This is the codebase of the sample flask based webapp explore face recognition feature from images using openCV, numpy, pandas and matplotlib.
+This is the codebase of the sample flask based webapp to explore face recognition feature from images using openCV, numpy, pandas and matplotlib.
 
 ## Project structure
 The sample app is composed by the following components:
